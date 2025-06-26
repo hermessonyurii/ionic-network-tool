@@ -17,7 +17,7 @@ Bem-vindo ao projeto **Diagnóstico de Rede**! Esta aplicação foi desenvolvida
 ---
 
 ## 👨‍💻 Autor
-- **Nome:** Hermesson Yuri Silva dos Santos
+- **Nome:** Hermesson Yuri
 - **Portfólio:** [hermessonyuri.com](https://www.hermessonyuri.com)
 - **LinkedIn:** [linkedin.com/in/hermesson-yuri](https://www.linkedin.com/in/hermesson-yuri)
 - **GitHub:** [github.com/hermessonyurii](https://github.com/hermessonyurii)
